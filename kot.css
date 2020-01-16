@@ -148,6 +148,25 @@ body {
 
 
 
+.contact{  
+    background: whitesmoke url(images/14.png) no-repeat center center;
+    background-size: cover;
+    color: white;
+    text-transform: uppercase;
+    margin-top: 100px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 3px grey; 
+}
+
+.form-control{
+    background-color: wheat;
+}
+
+.send{
+    background-color: orange;
+    width: 30%;   
+    font-size: 20px;
+}
 
 
 
