@@ -75,3 +75,41 @@ body {
 .card {
     margin-bottom: 40%;
 }
+
+
+
+
+.console {
+    background: whitesmoke url(images/c1.jpg) no-repeat center center;
+    background-size: cover;
+    
+    height: calc(45vh - 50px);
+
+    box-shadow: 0px 0px 10px 3px grey;
+
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+
+    margin-bottom: 8%;
+    color: white;
+
+    font-size: 25px;
+}
+
+.console a {
+    border: 1px solid white;
+    background: white;
+    border-radius: 20%;
+    opacity: 0.4;
+    font-size: 50px;
+    color: green;
+}
+
+
+
+
+
+
