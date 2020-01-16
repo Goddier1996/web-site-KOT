@@ -124,6 +124,29 @@ body {
 }
 
 
+.company1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 8%;
+   
+}
+
+.comn img{
+    margin-bottom: 10%;   
+    border: none;
+    background-color: beige;
+    opacity: 0.9;
+    border-radius: 5%; 
+    box-shadow: 0px 0px 10px 3px grey;  
+}
+
+.comn p{
+    color: black;  
+}
+
+
 
 
 
