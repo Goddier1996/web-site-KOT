@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: beige;
+}
+
+
+
+.menu .nav-item {
+    text-transform: uppercase;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.menu {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    box-shadow: 0px 0px 10px 3px grey;
+}
